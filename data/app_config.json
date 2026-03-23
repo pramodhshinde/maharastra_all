@@ -4,7 +4,7 @@
   "latest_version_name": "1.0.0",
   "update_url": "https://play.google.com/store/apps/details?id=com.vyankatesh.hsc",
   "force_update": false,
-  "ads_enabled": true,
+  "ads_enabled": false,
   "maintenance": false,
   "maintenance_message": "We are performing scheduled maintenance. The app will be back shortly. Thank you for your patience!",
   "banner_message": "\ud83d\udcda Complete Maharashtra Board textbooks for Classes 1-12! SSC & HSC with MCQs and PYQ papers.",
