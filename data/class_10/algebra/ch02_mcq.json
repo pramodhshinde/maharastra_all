@@ -1,0 +1,82 @@
+[
+  {
+    "mcq_id": "c10ma_ch02_q01",
+    "chapter_id": "c10ma_ch02",
+    "question": "The roots of x² - 5x + 6 = 0 are:",
+    "options": [
+      "2, 3",
+      "1, 6",
+      "-2, -3",
+      "3, -2"
+    ],
+    "correct_index": 0,
+    "explanation": "x² - 5x + 6 = (x-2)(x-3) = 0, so x = 2 or x = 3.",
+    "ncert_page": 22,
+    "difficulty": "easy",
+    "subject": "Algebra (Mathematics Part 1)"
+  },
+  {
+    "mcq_id": "c10ma_ch02_q02",
+    "chapter_id": "c10ma_ch02",
+    "question": "If one root of x² - 6x + k = 0 is 4, then k =",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "correct_index": 0,
+    "explanation": "Substituting x = 4: 16 - 24 + k = 0, k = 8.",
+    "ncert_page": 25,
+    "difficulty": "easy",
+    "subject": "Algebra (Mathematics Part 1)"
+  },
+  {
+    "mcq_id": "c10ma_ch02_q03",
+    "chapter_id": "c10ma_ch02",
+    "question": "The discriminant of 2x² - 5x + 3 = 0 is:",
+    "options": [
+      "1",
+      "-1",
+      "25",
+      "49"
+    ],
+    "correct_index": 0,
+    "explanation": "D = b² - 4ac = 25 - 24 = 1.",
+    "ncert_page": 28,
+    "difficulty": "medium",
+    "subject": "Algebra (Mathematics Part 1)"
+  },
+  {
+    "mcq_id": "c10ma_ch02_q04",
+    "chapter_id": "c10ma_ch02",
+    "question": "The nature of roots of x² + 4x + 5 = 0 is:",
+    "options": [
+      "Real and equal",
+      "Real and distinct",
+      "Complex (not real)",
+      "Rational"
+    ],
+    "correct_index": 2,
+    "explanation": "D = 16 - 20 = -4 < 0, roots are complex.",
+    "ncert_page": 31,
+    "difficulty": "medium",
+    "subject": "Algebra (Mathematics Part 1)"
+  },
+  {
+    "mcq_id": "c10ma_ch02_q05",
+    "chapter_id": "c10ma_ch02",
+    "question": "The sum of roots of 3x² - 9x + 5 = 0 is:",
+    "options": [
+      "3",
+      "5/3",
+      "9",
+      "9/3"
+    ],
+    "correct_index": 0,
+    "explanation": "Sum = -b/a = 9/3 = 3.",
+    "ncert_page": 34,
+    "difficulty": "easy",
+    "subject": "Algebra (Mathematics Part 1)"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "mcq_id": "c12ch_ch01_q01",
+    "chapter_id": "c12ch_ch01",
+    "question": "The number of atoms in a unit cell of FCC is:",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "8"
+    ],
+    "correct_index": 2,
+    "explanation": "FCC: 8 corners × 1/8 + 6 faces × 1/2 = 1 + 3 = 4.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Chemistry (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12ch_ch01_q02",
+    "chapter_id": "c12ch_ch01",
+    "question": "Which type of defect decreases the density of a crystal?",
+    "options": [
+      "Schottky",
+      "Frenkel",
+      "Interstitial",
+      "Metal excess"
+    ],
+    "correct_index": 0,
+    "explanation": "Schottky defect creates vacancies, reducing density.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Chemistry (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12ch_ch01_q03",
+    "chapter_id": "c12ch_ch01",
+    "question": "The coordination number of atoms in BCC structure is:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correct_index": 2,
+    "explanation": "In BCC, each atom touches 8 nearest neighbours.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Chemistry (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12ch_ch01_q04",
+    "chapter_id": "c12ch_ch01",
+    "question": "Packing efficiency of FCC is approximately:",
+    "options": [
+      "52%",
+      "68%",
+      "74%",
+      "90%"
+    ],
+    "correct_index": 2,
+    "explanation": "FCC/CCP packing efficiency = 74%.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Chemistry (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12ch_ch01_q05",
+    "chapter_id": "c12ch_ch01",
+    "question": "Amorphous solids are:",
+    "options": [
+      "Isotropic",
+      "Anisotropic",
+      "Both",
+      "Neither"
+    ],
+    "correct_index": 0,
+    "explanation": "Amorphous solids have same properties in all directions (isotropic).",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Chemistry (Part 1 & 2)"
+  }
+]

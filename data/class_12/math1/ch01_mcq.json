@@ -1,0 +1,82 @@
+[
+  {
+    "mcq_id": "c12m1_ch01_q01",
+    "chapter_id": "c12m1_ch01",
+    "question": "The negation of p ∧ q is:",
+    "options": [
+      "~p ∧ ~q",
+      "~p ∨ ~q",
+      "p ∨ q",
+      "p → q"
+    ],
+    "correct_index": 1,
+    "explanation": "By De Morgan's law: ~(p ∧ q) = ~p ∨ ~q.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Mathematics and Statistics Part 1"
+  },
+  {
+    "mcq_id": "c12m1_ch01_q02",
+    "chapter_id": "c12m1_ch01",
+    "question": "A tautology is a statement which is always:",
+    "options": [
+      "True",
+      "False",
+      "Neither",
+      "Both"
+    ],
+    "correct_index": 0,
+    "explanation": "A tautology is always true regardless of truth values.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Mathematics and Statistics Part 1"
+  },
+  {
+    "mcq_id": "c12m1_ch01_q03",
+    "chapter_id": "c12m1_ch01",
+    "question": "The converse of p → q is:",
+    "options": [
+      "q → p",
+      "~p → ~q",
+      "~q → ~p",
+      "p ∧ q"
+    ],
+    "correct_index": 0,
+    "explanation": "Converse of p → q is q → p.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Mathematics and Statistics Part 1"
+  },
+  {
+    "mcq_id": "c12m1_ch01_q04",
+    "chapter_id": "c12m1_ch01",
+    "question": "The contrapositive of p → q is:",
+    "options": [
+      "q → p",
+      "~p → ~q",
+      "~q → ~p",
+      "p ∨ q"
+    ],
+    "correct_index": 2,
+    "explanation": "Contrapositive of p → q is ~q → ~p.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Mathematics and Statistics Part 1"
+  },
+  {
+    "mcq_id": "c12m1_ch01_q05",
+    "chapter_id": "c12m1_ch01",
+    "question": "p ∨ ~p is:",
+    "options": [
+      "Tautology",
+      "Contradiction",
+      "Contingency",
+      "None"
+    ],
+    "correct_index": 0,
+    "explanation": "p ∨ ~p is always true — it is a tautology (law of excluded middle).",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Mathematics and Statistics Part 1"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "mcq_id": "c12ph_ch01_q01",
+    "chapter_id": "c12ph_ch01",
+    "question": "The moment of inertia of a solid sphere about its diameter is:",
+    "options": [
+      "2/5 MR²",
+      "2/3 MR²",
+      "1/2 MR²",
+      "MR²"
+    ],
+    "correct_index": 0,
+    "explanation": "For a solid sphere about diameter, I = 2/5 MR².",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Physics (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12ph_ch01_q02",
+    "chapter_id": "c12ph_ch01",
+    "question": "The radius of gyration of a disc about its axis is:",
+    "options": [
+      "R/√2",
+      "R/2",
+      "R",
+      "2R"
+    ],
+    "correct_index": 0,
+    "explanation": "I = MR²/2 = MK², so K = R/√2.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Physics (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12ph_ch01_q03",
+    "chapter_id": "c12ph_ch01",
+    "question": "Angular momentum is conserved when:",
+    "options": [
+      "Force is zero",
+      "Torque is zero",
+      "Energy is zero",
+      "Velocity is zero"
+    ],
+    "correct_index": 1,
+    "explanation": "Angular momentum is conserved when net external torque is zero.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Physics (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12ph_ch01_q04",
+    "chapter_id": "c12ph_ch01",
+    "question": "The relation between torque and angular acceleration is:",
+    "options": [
+      "τ = Iα",
+      "τ = mα",
+      "τ = Fα",
+      "τ = mvα"
+    ],
+    "correct_index": 0,
+    "explanation": "Torque = Moment of inertia × Angular acceleration (τ = Iα).",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Physics (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12ph_ch01_q05",
+    "chapter_id": "c12ph_ch01",
+    "question": "A body rolls down an inclined plane. It has:",
+    "options": [
+      "Only translational KE",
+      "Only rotational KE",
+      "Both translational and rotational KE",
+      "Neither"
+    ],
+    "correct_index": 2,
+    "explanation": "Rolling involves both translation and rotation.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Physics (Part 1 & 2)"
+  }
+]

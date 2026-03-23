@@ -1,0 +1,82 @@
+[
+  {
+    "mcq_id": "c10s1_ch01_q01",
+    "chapter_id": "c10s1_ch01",
+    "question": "The value of acceleration due to gravity on the surface of the earth is approximately:",
+    "options": [
+      "9.8 m/s²",
+      "10.8 m/s²",
+      "8.9 m/s²",
+      "11.2 m/s²"
+    ],
+    "correct_index": 0,
+    "explanation": "The standard value of g on Earth's surface is approximately 9.8 m/s².",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Science and Technology Part 1"
+  },
+  {
+    "mcq_id": "c10s1_ch01_q02",
+    "chapter_id": "c10s1_ch01",
+    "question": "The gravitational force between two objects is inversely proportional to the:",
+    "options": [
+      "Product of masses",
+      "Sum of masses",
+      "Square of distance",
+      "Cube of distance"
+    ],
+    "correct_index": 2,
+    "explanation": "Newton's law: F = G × m₁m₂ / r², inversely proportional to r².",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Science and Technology Part 1"
+  },
+  {
+    "mcq_id": "c10s1_ch01_q03",
+    "chapter_id": "c10s1_ch01",
+    "question": "The value of G (gravitational constant) is:",
+    "options": [
+      "6.67 × 10⁻¹¹ Nm²/kg²",
+      "9.8 m/s²",
+      "6.67 × 10⁻⁸ Nm²/kg²",
+      "6.67 × 10¹¹ Nm²/kg²"
+    ],
+    "correct_index": 0,
+    "explanation": "The universal gravitational constant G = 6.67 × 10⁻¹¹ Nm²/kg².",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Science and Technology Part 1"
+  },
+  {
+    "mcq_id": "c10s1_ch01_q04",
+    "chapter_id": "c10s1_ch01",
+    "question": "If mass of the Earth becomes half, the value of g will:",
+    "options": [
+      "Remain same",
+      "Become half",
+      "Become double",
+      "Become four times"
+    ],
+    "correct_index": 1,
+    "explanation": "g = GM/R², if M becomes M/2, g becomes g/2.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Science and Technology Part 1"
+  },
+  {
+    "mcq_id": "c10s1_ch01_q05",
+    "chapter_id": "c10s1_ch01",
+    "question": "Escape velocity from Earth's surface is approximately:",
+    "options": [
+      "7.2 km/s",
+      "11.2 km/s",
+      "9.8 km/s",
+      "3.2 km/s"
+    ],
+    "correct_index": 1,
+    "explanation": "Escape velocity from Earth = √(2gR) ≈ 11.2 km/s.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Science and Technology Part 1"
+  }
+]

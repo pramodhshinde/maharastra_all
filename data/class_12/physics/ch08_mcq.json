@@ -1,0 +1,82 @@
+[
+  {
+    "mcq_id": "c12ph_ch08_q01",
+    "chapter_id": "c12ph_ch08",
+    "question": "The SI unit of electric field intensity is:",
+    "options": [
+      "N/C",
+      "C/N",
+      "J/C",
+      "V/m and N/C both"
+    ],
+    "correct_index": 3,
+    "explanation": "Electric field E has units N/C = V/m.",
+    "ncert_page": 142,
+    "difficulty": "easy",
+    "subject": "Physics (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12ph_ch08_q02",
+    "chapter_id": "c12ph_ch08",
+    "question": "Electric flux through a closed surface enclosing a charge q is:",
+    "options": [
+      "q/ε₀",
+      "ε₀/q",
+      "q × ε₀",
+      "q²/ε₀"
+    ],
+    "correct_index": 0,
+    "explanation": "By Gauss's law, total flux = q/ε₀.",
+    "ncert_page": 145,
+    "difficulty": "easy",
+    "subject": "Physics (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12ph_ch08_q03",
+    "chapter_id": "c12ph_ch08",
+    "question": "Two charges of +2μC and -2μC are placed 10 cm apart. The dipole moment is:",
+    "options": [
+      "2 × 10⁻⁷ C·m",
+      "4 × 10⁻⁷ C·m",
+      "2 × 10⁻⁵ C·m",
+      "4 × 10⁻⁵ C·m"
+    ],
+    "correct_index": 0,
+    "explanation": "p = q × d = 2 × 10⁻⁶ × 0.1 = 2 × 10⁻⁷ C·m.",
+    "ncert_page": 148,
+    "difficulty": "medium",
+    "subject": "Physics (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12ph_ch08_q04",
+    "chapter_id": "c12ph_ch08",
+    "question": "Electric potential at a point due to a point charge is:",
+    "options": [
+      "V = kq/r",
+      "V = kq/r²",
+      "V = kq²/r",
+      "V = kr/q"
+    ],
+    "correct_index": 0,
+    "explanation": "Potential V = kq/r (scalar quantity).",
+    "ncert_page": 151,
+    "difficulty": "easy",
+    "subject": "Physics (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12ph_ch08_q05",
+    "chapter_id": "c12ph_ch08",
+    "question": "Capacitance of a parallel plate capacitor is:",
+    "options": [
+      "ε₀A/d",
+      "ε₀d/A",
+      "A/ε₀d",
+      "d/ε₀A"
+    ],
+    "correct_index": 0,
+    "explanation": "C = ε₀A/d for a parallel plate capacitor.",
+    "ncert_page": 154,
+    "difficulty": "easy",
+    "subject": "Physics (Part 1 & 2)"
+  }
+]

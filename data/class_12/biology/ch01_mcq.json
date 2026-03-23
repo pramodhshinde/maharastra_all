@@ -1,0 +1,82 @@
+[
+  {
+    "mcq_id": "c12bi_ch01_q01",
+    "chapter_id": "c12bi_ch01",
+    "question": "Vegetative reproduction in Bryophyllum occurs through:",
+    "options": [
+      "Stem",
+      "Root",
+      "Leaf buds",
+      "Seeds"
+    ],
+    "correct_index": 2,
+    "explanation": "Bryophyllum reproduces vegetatively through adventitious buds on leaf margins.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Biology (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12bi_ch01_q02",
+    "chapter_id": "c12bi_ch01",
+    "question": "The male gametophyte of angiosperms is:",
+    "options": [
+      "Embryo sac",
+      "Pollen grain",
+      "Ovule",
+      "Anther"
+    ],
+    "correct_index": 1,
+    "explanation": "Pollen grain is the male gametophyte in angiosperms.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Biology (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12bi_ch01_q03",
+    "chapter_id": "c12bi_ch01",
+    "question": "Double fertilisation is unique to:",
+    "options": [
+      "Gymnosperms",
+      "Angiosperms",
+      "Bryophytes",
+      "Pteridophytes"
+    ],
+    "correct_index": 1,
+    "explanation": "Double fertilisation is a characteristic feature of angiosperms.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Biology (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12bi_ch01_q04",
+    "chapter_id": "c12bi_ch01",
+    "question": "The triploid (3n) structure in angiosperms is:",
+    "options": [
+      "Zygote",
+      "Embryo",
+      "Endosperm",
+      "Ovule"
+    ],
+    "correct_index": 2,
+    "explanation": "Endosperm is triploid (3n), formed by fusion of two polar nuclei and one sperm.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Biology (Part 1 & 2)"
+  },
+  {
+    "mcq_id": "c12bi_ch01_q05",
+    "chapter_id": "c12bi_ch01",
+    "question": "Apomixis is:",
+    "options": [
+      "Seed formation without fertilisation",
+      "Fruit without seed",
+      "Pollination without flower",
+      "None"
+    ],
+    "correct_index": 0,
+    "explanation": "Apomixis is asexual reproduction through seeds without fertilisation.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Biology (Part 1 & 2)"
+  }
+]
